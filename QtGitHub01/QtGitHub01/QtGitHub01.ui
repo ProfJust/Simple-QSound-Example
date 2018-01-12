@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>QtGitHub01Class</class>
+ <widget class="QMainWindow" name="QtGitHub01Class" >
+  <property name="objectName" >
+   <string notr="true">QtGitHub01Class</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QtGitHub01</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="QtGitHub01.qrc"/>
+ </resources>
+ <connections/>
+</UI>
