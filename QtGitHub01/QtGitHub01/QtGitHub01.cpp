@@ -4,6 +4,7 @@ QtGitHub01::QtGitHub01(QWidget *parent)
 	: QMainWindow(parent)
 {
 	ui.setupUi(this);
+	this->setWindowTitle("QSound-Example by Prof. Just - Westfaelische Hochschule - Campus Bocholt - Fachbereich Maschinenbau");
 	btn1 = new QPushButton(this);
 	btn2 = new QPushButton(this);
 	// Button konfigurieren
